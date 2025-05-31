@@ -1,0 +1,23 @@
+username admin : adm
+password admin : 1990
+
+username mahasiswa : mhs
+password mahasiswa : 1994
+
+Jadwal 1
+Mata Kuliah : Algoritma Pemrograman
+Dosen : Rusydi
+Jam : 09.30 - 11.30
+Ruang : 4.1.5.55
+
+Jadwal 2
+Mata Kuliah : Matematika Diskrit
+Dosen : Ninda khoirunisa
+jam : 12.30
+Ruang : 4.1.5.55
+
+Jadwal 3
+Mata Kuliah : Arsitektur Komputer
+Dosen : Jihad Rahmawan
+Jam : 09.00-11.00
+Ruang : 4.1.5.57
